@@ -1,0 +1,21 @@
+.lien {
+    color : blueviolet;
+    font-size: italic;
+    font-weight: bold ;
+
+}
+
+.prenom{
+  background-color: rgb(113, 63, 113);
+  color : blueviolet;
+    
+  
+
+
+
+}
+.nom_de_famille { 
+    background-color:  orange ;
+    color : blueviolet;
+
+}
